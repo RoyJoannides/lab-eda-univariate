@@ -1,0 +1,62 @@
+Business-Centric Report: Exploring Amazon UK Product Insights
+
+Objective:
+The objective of this analysis is to gain insights into the product listing dynamics on Amazon UK. By understanding the distribution, central tendencies, and relationships of various product attributes, businesses can make more informed decisions on product positioning, pricing strategies, and inventory management.
+
+Part 1: Understanding Product Categories:
+
+Frequency Tables:
+A frequency table was generated a for the product categories, revealing the distribution of product listings across different categories.
+The top 5 most listed product categories are
+Sports & Outdoors,Skin Care,Fragrances,Make-up,Manicure & Pedicure Products       
+
+Visualizations:
+The distribution of products across different categories was visualized using a bar chart, providing a clear overview of the popularity of various product categories.
+
+Part 2: Delving into Product Pricing:
+
+Measures of Centrality:
+The mean, median, and mode were calculated for the price of products, providing insights into the average and most common price points.
+Average price point: [94.26].
+Most common price point: [9.99].
+Median price: [19.9]
+
+Measures of Dispersion:
+The variance, standard deviation, range, and interquartile range for product price were determined, indicating the spread and variability in pricing.
+Variance: [130048.57].
+Standard deviation: [360.62].
+Price range: [100000.0].
+Interquartile range: [37.71].
+
+Visualizations:
+A histogram was utilized to visualize the distribution of product prices, identifying any predominant price ranges.Also, a box plot to showcase the spread and potential outliers in product pricing, aiding in understanding pricing variability and identifying any extreme price points.
+
+Part 3: Unpacking Product Ratings:
+
+Measures of Centrality:
+The mean, median, and mode were calculated for the rating of products, providing insights into the overall customer ratings.
+Mean rating: [2.03].
+Median rating: [0.0].
+Mode rating: [0.0].
+
+Measures of Dispersion:
+The variance, standard deviation, and interquartile range for product rating were determined, indicating the consistency and variability in customer feedback.
+Variance: [4.78].
+Standard deviation: [2.19].
+Interquartile range: [4.4].
+
+Shape of the Distribution:
+The skewness and kurtosis for the rating column were calculated, revealing the distribution shape and tendencies.
+Skewness of Rating: [0.19].
+Kurtosis of Rating: [-1.9].
+
+Visualizations:
+A histogram was employed to visualize the distribution of product ratings, identifying any predominant rating values and overall patterns in customer feedback.
+
+Conclusion:
+Based on the analysis conducted, businesses can gain valuable insights into the product listing dynamics, pricing strategies, and customer feedback trends on Amazon UK. These insights can be leveraged to optimize product positioning, refine pricing strategies, and enhance customer satisfaction, ultimately leading to improved business performance and competitiveness in the online marketplace.
+
+Recommendations:
+- Focus marketing efforts on the top-listed product categories to maximize visibility and sales.
+- Adjust pricing strategies to align with the predominant price ranges while considering outliers and extreme price points.
+- Address any issues highlighted by customer feedback to improve product quality and enhance customer satisfaction.
